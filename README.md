@@ -49,6 +49,8 @@ Detailed descriptions on implemented functions
 main page
 
   ![main](./pic/main.png)
+    
+  --------
   
   ![upper_menu](./pic/upper_menu.png)
 
@@ -65,7 +67,7 @@ main page
   
   3) Messages list
   
-  ![receive_manage](./pic/receive_manage.png)
+  ![message_manage](./pic/message_manage.png)
 
 2. Seller
 
@@ -76,6 +78,8 @@ main page
   2) Product Info
   
   ![selling_state](./pic/selling_state.png)
+    
+  --------
   
   ![no_img_sold_out](./pic/no_img_sold_out.png)
   
@@ -92,6 +96,8 @@ main page
   2) Product buy
   
   ![mouse_on_category](./pic/mouse_on_category.png)
+  
+  --------
   
   ![write_message](./pic/write_message.png)
   
@@ -112,6 +118,8 @@ main page
   1) Login page
   
   ![login](./pic/login.png)
+    
+  --------
   
   ![admin_login](./pic/admin_login.png)
 
@@ -122,12 +130,16 @@ main page
   3) Product page
   
   ![main](./pic/main.png)
+    
+  --------
   
   ![go_to_sell](./pic/go_to_sell.png)
 
   4) My page
   
   ![mypage](./pic/mypage.png)
+    
+  --------
   
   ![mypage_edit](./pic/mypage_edit.png)
 
