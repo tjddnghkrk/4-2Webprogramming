@@ -63,7 +63,7 @@ main page
 
   2) Writes list
   
-  ![write_manage](./pic/write_manage.png)
+  ![write_magane](./pic/write_magane.png)
   
   3) Messages list
   
